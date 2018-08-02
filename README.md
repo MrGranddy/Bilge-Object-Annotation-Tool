@@ -45,8 +45,8 @@ select the label of the frame you are creating. After you select your label then
 
 * Selecting and Adjusting a Frame
 ```
-To select a frame hover on the wanted frame then press 'T' on your keyboard. After the frame is selected it will turn into
-green. Then you can use WASD keys to change the size of the frame:
+To select a frame hover on the wanted frame then press 'T' on your keyboard. After the frame is
+selected it will turn into green. Then you can use WASD keys to change the size of the frame:
 
 W - Make it shorter
 S - Make it taller
